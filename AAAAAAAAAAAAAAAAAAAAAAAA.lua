@@ -1,4 +1,4 @@
-local url = "https://discord.com/api/webhooks/906452603183980565/zjZYOhjC-JShQJAqsBTub2ZBUDTpAF0BtCthExgwFUjE0GpbA6NeAKb868a7v1yw3Jmc"
+local url = hook
 local http = game:GetService("HttpService")
 
 game.Players.PlayerAdded:Connect(function(plr)
